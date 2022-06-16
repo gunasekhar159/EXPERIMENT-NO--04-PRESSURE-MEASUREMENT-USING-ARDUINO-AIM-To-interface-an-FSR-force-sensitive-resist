@@ -77,6 +77,7 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 ```
 Program Developed by :M.GUNASEKHAR
 Reference Number     :212221240014
+
 ### PROGRAM 
 #define fsrpin A0
 #define led1 2
@@ -130,8 +131,8 @@ void loop()
   }
   else digitalWrite(led6,LOW);
 }
+```
 ## Output:
-![output](https://github.com/gunasekhar159/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/blob/main/F.png?raw=true)
-
+![OUTPUT](https://github.com/gunasekhar159/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/blob/main/F.png?raw=true)
 ### RESULTS : 
 Thus the interfacing using FSR is simulated in tinkerCAD.
